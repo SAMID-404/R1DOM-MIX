@@ -1,1 +1,2 @@
-# POWER-FULL
+apt update
+apt upgarde
